@@ -1,0 +1,49 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar  # Keep Maven wrapper
+
+# Dependency directories
+bin/
+lib/
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env*
+
+# Build artifacts
+build/
+dist/
+out/
+
+# IDE files (specific to your IDE, adjust as needed)
+.vscode/
+.idea/
+*.iml
+
+# Compiled JavaScript files
+*.js
+
+# Compiled CSS files
+*.css
+
+# Logs
+*.log
+
+# Cache and temporary files
+.cache/
+.temp/
